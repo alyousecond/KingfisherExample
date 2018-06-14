@@ -112,7 +112,7 @@
 		090ED6E220CF5F790065A605 /* KingFisherExample */ = {
 			isa = PBXGroup;
 			children = (
-				090ED71920CF7E7D0065A605 /* Category */,
+				090ED71920CF7E7D0065A605 /* ViewController */,
 				090ED6E320CF5F790065A605 /* AppDelegate.swift */,
 				09BCFAE020D118530041A17A /* AppBuilder.swift */,
 				090ED6E920CF5F790065A605 /* Main.storyboard */,
@@ -150,22 +150,22 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		090ED71920CF7E7D0065A605 /* Category */ = {
+		090ED71920CF7E7D0065A605 /* ViewController */ = {
 			isa = PBXGroup;
 			children = (
-				09BCFADF20D117560041A17A /* ImageProcessor */,
+				09BCFADF20D117560041A17A /* ImageProcessorView */,
 				09BCFADD20D116630041A17A /* ImageProcessorsViewController.swift */,
 				090ED71C20CF985B0065A605 /* CollectionViewCell.swift */,
 			);
-			path = Category;
+			path = ViewController;
 			sourceTree = "<group>";
 		};
-		09BCFADF20D117560041A17A /* ImageProcessor */ = {
+		09BCFADF20D117560041A17A /* ImageProcessorView */ = {
 			isa = PBXGroup;
 			children = (
 				090ED71A20CF7E9B0065A605 /* BlurViewController.swift */,
 			);
-			path = ImageProcessor;
+			path = ImageProcessorView;
 			sourceTree = "<group>";
 		};
 		09BCFAE220D1DD6D0041A17A /* Build */ = {
