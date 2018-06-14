@@ -3,7 +3,7 @@
 '# Include only project data
 
 *.xcodeproj/\*
-
 !*.xcodeproj/project.pbxproj
+xcuserdata
 
-*.xcodeproj/xcuserdata/*
+
